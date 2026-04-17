@@ -14,7 +14,7 @@ const stations=[
 f:88.7,
 html:`
 <div class="songCard">
-<img class="cover" src="src/pict.jpg">
+<img class="cover" src="src/6.jpg">
 <div class="songInfo">
 <div>Mystery of Love</div>
 <div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -116,7 +116,7 @@ Sometimes I wonder if you notice how softly you exist inside my universe.
 
 Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
 
-But like late night radio waves that stay playing even when the world sleeps.
+But like late night radio waves that stay playing even when the world sleeps. And last but not least, Happy 3rd Mensiversary for us. Thank yo u for everything u did to me. I love You
 
 END SIGNAL
 <span class="signal">END SIGNAL</span>
